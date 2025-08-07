@@ -17,6 +17,4 @@ import { DashboardItemComponent } from './dashboard/item/item.component';
   ],
   templateUrl: './app.component.html',
 })
-export class AppComponent {
-  currentStatus = 'online';
-}
+export class AppComponent {}

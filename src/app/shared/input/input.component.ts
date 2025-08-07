@@ -1,4 +1,10 @@
-import { Component, input, ViewEncapsulation } from '@angular/core';
+import {
+  Component,
+  ElementRef,
+  inject,
+  input,
+  ViewEncapsulation,
+} from '@angular/core';
 
 @Component({
   selector: 'app-input',
